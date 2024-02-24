@@ -1,0 +1,1150 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/fKmKPN9+eHa+gqnHY7dRJYk9QbQoHic4ZO3zVAuNa0DDzn6pImXw7hTiWX/Z6A4VLU2fLNmDEpr+GN4rc1EQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CinemaManager-X\\CinemaManager-X\\CinemaManager-X.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.build.framework\\17.3.2\\microsoft.build.framework.17.3.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.stringtools\\17.3.2\\microsoft.net.stringtools.17.3.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.metadata\\6.0.0\\system.reflection.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.reflection.metadataloadcontext\\6.0.0\\system.reflection.metadataloadcontext.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\system.threading.tasks.dataflow.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Workspaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Workspaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Workspaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Workspaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Threading.Tasks.Dataflow' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Threading.Tasks.Dataflow'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Threading.Tasks.Dataflow"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Metadata' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Metadata'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Threading.Tasks.Dataflow' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Threading.Tasks.Dataflow'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Threading.Tasks.Dataflow"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Metadata' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Metadata'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Metadata' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Metadata'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Metadata' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Metadata'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encodings.Web' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.MetadataLoadContext' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.MetadataLoadContext'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.MetadataLoadContext"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encoding.CodePages' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encoding.CodePages'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encodings.Web' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encodings.Web'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encodings.Web"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.MetadataLoadContext' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.MetadataLoadContext'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.MetadataLoadContext"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encoding.CodePages' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encoding.CodePages'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Principal.Windows' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Principal.Windows'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Principal.Windows"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encoding.CodePages' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encoding.CodePages'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Principal.Windows' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Principal.Windows'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Principal.Windows"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Encoding.CodePages' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Encoding.CodePages'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Text.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Analyzers' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Analyzers' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Extensions.DependencyInjection' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Permissions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Permissions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Permissions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Design' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Design'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Windows.Extensions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Windows.Extensions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Windows.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Extensions.DependencyInjection' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Design' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Design'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Permissions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Permissions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Permissions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.AspNetCore.Razor.Language' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Razor.Language'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.AttributedModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.AttributedModel'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.AttributedModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build.Framework' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.AspNetCore.Razor.Language' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Razor.Language'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Humanizer.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Humanizer.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Humanizer.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.AttributedModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.AttributedModel'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.AttributedModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build.Framework' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Humanizer.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Humanizer.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Humanizer.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Convention' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Convention'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Convention"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Newtonsoft.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Newtonsoft.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build.Framework' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Newtonsoft.Json' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Newtonsoft.Json'&semVerLevel=2.0.0'.",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build.Framework' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build.Framework'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Convention' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Convention'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Convention"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Windows.Extensions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Windows.Extensions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Windows.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Scripting' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Scripting'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Scripting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp.Scripting' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp.Scripting'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Scripting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.TypedParts' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.TypedParts'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.TypedParts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.CSharp' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.TypedParts' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.TypedParts'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.TypedParts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Drawing.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Drawing.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Drawing.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Drawing.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Drawing.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Drawing.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Memory' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NET.StringTools' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NET.StringTools'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NET.StringTools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Win32.SystemEvents' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Win32.SystemEvents'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Win32.SystemEvents"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Dynamic.Runtime' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Dynamic.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Dynamic.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NET.StringTools' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NET.StringTools'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NET.StringTools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Win32.SystemEvents' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Win32.SystemEvents'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Win32.SystemEvents"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic.Features' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic.Features'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Dynamic.Runtime' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Dynamic.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Dynamic.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Runtime.CompilerServices.Unsafe' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Workspaces.MSBuild' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.MSBuild'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.MSBuild"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Workspaces.MSBuild' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.MSBuild'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.MSBuild"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.IO.Pipelines' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Runtime' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Hosting' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Hosting'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Hosting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Bcl.AsyncInterfaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Bcl.AsyncInterfaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Platforms' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Platforms'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Workspaces.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Hosting' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Hosting'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Hosting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Platforms' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Platforms'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Composition.Runtime' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Composition.Runtime'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Composition.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Bcl.AsyncInterfaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Bcl.AsyncInterfaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.IO.Pipelines' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.IO.Pipelines'&semVerLevel=2.0.0'.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Workspaces.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Workspaces.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Platforms' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Platforms'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Bcl.AsyncInterfaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Bcl.AsyncInterfaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Threading.Tasks.Extensions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Threading.Tasks.Extensions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Platforms' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Platforms'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Bcl.AsyncInterfaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Bcl.AsyncInterfaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Threading.Tasks.Extensions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Threading.Tasks.Extensions'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGenerators.Mvc' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGenerators.Mvc'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGenerators.Mvc"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Razor' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Razor'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Templating' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Templating'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Templating"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Utils' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Utils'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Collections.Immutable' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Collections.Immutable'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGenerators.Mvc' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGenerators.Mvc'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGenerators.Mvc"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Razor' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Razor'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Templating' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Templating'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Templating"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Scripting.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Scripting.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Scripting.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.AccessControl' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.AccessControl'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.AccessControl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.Utils' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.Utils'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Collections.Immutable' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Collections.Immutable'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.DotNet.Scaffolding.Shared' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.DotNet.Scaffolding.Shared'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DotNet.Scaffolding.Shared"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.Scripting.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.Scripting.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.Scripting.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.AccessControl' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.AccessControl'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.AccessControl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Extensions.DependencyInjection.Abstractions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.DotNet.Scaffolding.Shared' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.DotNet.Scaffolding.Shared'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DotNet.Scaffolding.Shared"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Extensions.DependencyInjection.Abstractions' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.Build' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.Build'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Build"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.DependencyResolver.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.DependencyResolver.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.DependencyResolver.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Emit.Lightweight' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Emit.Lightweight'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Emit.Lightweight"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Configuration.ConfigurationManager' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Configuration.ConfigurationManager'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Configuration.ConfigurationManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Packaging' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Packaging'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Packaging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Frameworks' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Frameworks'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Frameworks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Emit.Lightweight' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Emit.Lightweight'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Emit.Lightweight"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Packaging' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Packaging'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Packaging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Configuration.ConfigurationManager' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Configuration.ConfigurationManager'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Configuration.ConfigurationManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.ProtectedData' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Frameworks' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Frameworks'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Frameworks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Targets' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Targets'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.ProtectedData' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Common' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Common'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.LibraryModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.LibraryModel'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.LibraryModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Formats.Asn1' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Formats.Asn1'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Formats.Asn1"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.DiaSymReader' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.DiaSymReader'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DiaSymReader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Private.Uri' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Private.Uri'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Private.Uri"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.ProtectedData' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.DependencyResolver.Core' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.DependencyResolver.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.DependencyResolver.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.LibraryModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.LibraryModel'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.LibraryModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.DiaSymReader' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.DiaSymReader'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DiaSymReader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Private.Uri' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Private.Uri'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Private.Uri"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Formats.Asn1' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Formats.Asn1'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Formats.Asn1"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.ProtectedData' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.ProtectedData'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.NETCore.Targets' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.NETCore.Targets'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.ProjectModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.ProjectModel'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.ProjectModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Versioning' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Versioning'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Versioning"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.Pkcs' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.Pkcs'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Pkcs"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.AnalyzerUtilities' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.AnalyzerUtilities'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.AnalyzerUtilities"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Configuration' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Configuration'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Debugger.Contracts' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Debugger.Contracts'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Debugger.Contracts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.Cng' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.ProjectModel' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.ProjectModel'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.ProjectModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Versioning' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Versioning'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Versioning"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Configuration' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Configuration'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.Pkcs' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.Pkcs'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Pkcs"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Security.Cryptography.Cng' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Security.Cryptography.Cng'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.VisualStudio.Debugger.Contracts' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.VisualStudio.Debugger.Contracts'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.VisualStudio.Debugger.Contracts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.AnalyzerUtilities' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.AnalyzerUtilities'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.AnalyzerUtilities"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Protocol' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Protocol'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Protocol"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'NuGet.Protocol' à partir de la source distante 'https://packagesource/FindPackagesById()?id='NuGet.Protocol'&semVerLevel=2.0.0'.",
+      "libraryId": "NuGet.Protocol"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic.Workspaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic.Workspaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePack' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePack'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePack"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePackAnalyzer' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePackAnalyzer'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePackAnalyzer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePack.Annotations' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePack.Annotations'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePack.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeAnalysis.VisualBasic.Workspaces' à partir de la source distante 'https://packagesource/FindPackagesById()?id='Microsoft.CodeAnalysis.VisualBasic.Workspaces'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePackAnalyzer' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePackAnalyzer'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePackAnalyzer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePack.Annotations' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePack.Annotations'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePack.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'MessagePack' à partir de la source distante 'https://packagesource/FindPackagesById()?id='MessagePack'&semVerLevel=2.0.0'.",
+      "libraryId": "MessagePack"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Emit' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Emit'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Emit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'System.Reflection.Emit' à partir de la source distante 'https://packagesource/FindPackagesById()?id='System.Reflection.Emit'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Reflection.Emit"
+    }
+  ]
+}

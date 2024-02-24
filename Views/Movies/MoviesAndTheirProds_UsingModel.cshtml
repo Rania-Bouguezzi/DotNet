@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>    MoviesAndTheirProds_UsingModel</h1>
+
+<table class="table">
+
+    <thead>
+     <tr>
+         <th>mTitle</th>
+         <th>mGenre</th>
+         <th>pName</th>
+         <th>pNat</th>
+
+     </tr>
+    </thead>
+    <tbody>
+     @foreach(var i in Model){
+      <tr>
+          <td>@i.mTitle</td>
+          <td>@i.mGenre</td>
+          <td>@i.pName</td>
+           <td>@i.pNat</td>
+
+
+      </tr>
+
+
+     }
+
+
+
+    </tbody>
+
+
+</table>
